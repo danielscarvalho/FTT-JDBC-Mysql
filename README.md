@@ -11,3 +11,6 @@ Reference:
 - https://books.goalkicker.com/SQLBook/
 - https://books.goalkicker.com/MySQLBook/
 
+THE FUGURE OF DATA BASE: Infographic
+
+![Info graphic](https://i.pinimg.com/564x/f8/d9/0e/f8d90e0db0cd236dba9bbec7ce7772a2.jpg)

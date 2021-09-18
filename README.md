@@ -13,7 +13,7 @@ Reference:
 
 JDBC Driver: Infographic
 
-![JDBC Driver](https://i.pinimg.com/564x/9c/e9/d2/9ce9d25b3f213f5621164ef8cfc0d093.jpg)https://i.pinimg.com/564x/9c/e9/d2/9ce9d25b3f213f5621164ef8cfc0d093.jpg
+![JDBC Driver](https://i.pinimg.com/564x/9c/e9/d2/9ce9d25b3f213f5621164ef8cfc0d093.jpg)
 
 THE FUTURE OF DATABASE: Infographic
 
